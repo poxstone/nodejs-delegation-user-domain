@@ -3,3 +3,4 @@ node_modules/
 .visual
 package-lock.json
 privatekey.json
+.vscode
